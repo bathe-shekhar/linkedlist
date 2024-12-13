@@ -1,0 +1,20 @@
+{
+  "name": "linkedlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bathe-shekhar/linkedlist.git"
+  },
+  "author": "Shekhar Bathe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bathe-shekhar/linkedlist/issues"
+  },
+  "homepage": "https://github.com/bathe-shekhar/linkedlist#readme",
+  "type": "module"
+}
